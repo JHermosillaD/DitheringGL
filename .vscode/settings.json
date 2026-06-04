@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/jhermosilla/.venvs/creativecoding/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/jhermosilla/.venvs/creativecoding/lib/python3.12/site-packages"
+    ]
+}
